@@ -1,6 +1,6 @@
 # Write your code here.
 def line( line )
-  new_line_string = String.new
+  new_line_string = "The line is currently: "
   if line.empty?
     puts "The line is currently empty."
   else
