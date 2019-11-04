@@ -8,3 +8,5 @@ def line( line )
     puts new_line_string
   end
 end
+
+def take_a_number( deli, name )
