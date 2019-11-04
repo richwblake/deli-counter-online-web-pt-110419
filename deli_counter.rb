@@ -1,4 +1,4 @@
 # Write your code here.
 def line( line )
-  line.is
+  line.empty? ? puts ""
 end
