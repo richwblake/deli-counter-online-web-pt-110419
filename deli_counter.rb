@@ -1,4 +1,5 @@
 # Write your code here.
 def line( line )
-  line.empty? ? puts "The line is currently empty" : false
+  if line.empty?
+    puts "The line is currently empty"
 end
